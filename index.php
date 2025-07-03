@@ -17,7 +17,7 @@
   <div class="marquee">
         <div class="marquee-content">
             <span><span class="highlight">🔥 PROMO ! 🔥</span> Diskon 10% untuk semua produk processor Intel Core generasi terbaru</span>
-            <span><span class="highlight">🛒 Gratis Ongkir!</span> Untuk pembelian di atas Rp 5.000.000 ke seluruh Indonesia</span>
+            <span><span class="highlight">🛒 Gratis z!</span> Untuk pembelian di atas Rp 5.000.000 ke seluruh Indonesia</span>
             <span><span class="highlight">💻 Paket Komputer Lengkap!</span> Dapatkan paket gaming dengan harga spesial</span>
             <span><span class="highlight">📞 Hubungi Kami:</span> 0859-5523-0855 (WhatsApp)</span>
         </div>
